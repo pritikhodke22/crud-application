@@ -1,0 +1,46 @@
+.searchicon {
+    position: absolute;
+    top: 15px;
+    left: 25px;
+}
+.searchname {
+    width: 225px;
+    border-radius: 5px;
+    border: 1px solid #BCBCBC;
+}
+::placeholder {
+    color: #BCBCBC;
+    font-size: 14px;
+    font-weight: 400;
+  }
+.img_resize {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    margin-top: 10px;
+}
+.full_name {
+    margin: 0;
+}
+.mobile_number {
+    font-size: 14px;
+    font-weight: 400;
+    color: #7d7d7d;
+}
+.customer_decoration {
+    text-decoration: none !important;
+
+}
+.customer_decoration>div {
+    font-size: 16px;
+    font-weight: 700;
+    color: #000000;
+    margin: 0;
+    padding-top: 10px;
+}
+.customer_decoration>div:hover {
+    background-color: #000000;
+    color: #ffffff !important;
+    margin-left: -8px;
+    margin-right: 8px;
+}

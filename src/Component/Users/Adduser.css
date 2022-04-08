@@ -1,0 +1,57 @@
+.place_name {
+  font-size: 14px;
+  font-weight: 400;
+  color: #7d7d7d;
+}
+input[type="text"],
+input[type="email"]
+{
+  color: #bcbcbc;
+  font-weight: 400;
+  font-size: 12px;
+  width: 200px;
+  height: 26px;
+}
+textarea {
+    color: #bcbcbc;
+    font-weight: 400;
+    font-size: 12px;
+  }
+.mar_ginbot {
+  margin-bottom: 24px;
+}
+.mar_ginmobile {
+    margin-bottom: 44px;
+}
+.wid_fit {
+    width: fit-content;
+    margin-left: auto;
+    margin-right: 55px;
+    margin-top: 86px;
+}
+.edit_profile {
+    background: #000000;
+    color: #ffffff;
+    border: none;
+    font-size: 12px;
+    font-weight: 700;
+    padding: 10px 18px;
+    border-radius: 6px;
+    margin-left: 0px;
+}
+.create_order {
+    background: #000000;
+    color: #ffffff;
+    border: none;
+    font-size: 12px;
+    font-weight: 700;
+    padding: 10px 18px;
+    border-radius: 6px;
+    margin: 0 30px;
+}
+.back_customer {
+    color: #000000 !important;
+    text-decoration: none !important;
+    font-size: 13px;
+    font-weight: 500;
+}

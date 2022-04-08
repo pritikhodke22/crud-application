@@ -1,0 +1,38 @@
+.total_revenue {
+    text-transform: uppercase;
+}
+.main_data {
+    font-size: 12px;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: #7D7D7D;
+    border-bottom-color: #E5E5E5 !important;
+    text-align: center;
+    border: none !important;
+}
+.data_name {
+    text-align: center;
+    font-size: 15px;
+    font-weight: 700;
+    border: none;
+}
+.dropdown-toggle::after {
+    display: none !important;
+}
+.dropdown-menu {
+    min-width: 8rem !important;
+}
+.drop_down_item {
+    font-size: 14px;
+    font-weight: 500;
+    margin-left: 15px;
+}
+.dropleft ::before {
+    display: none !important;
+}
+.img_resize {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    margin-top: 10px;
+}

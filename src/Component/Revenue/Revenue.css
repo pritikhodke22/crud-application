@@ -1,0 +1,41 @@
+.sha_dow {
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+    padding-right: 35px;
+    padding-left: 15px;
+    background-color: #ffffff;
+}
+.customers_heading {
+    font-size: 20px;
+    font-weight: 400;
+    color: #000000 !important;
+}
+.margin_left {
+    width: fit-content;
+    margin-left: auto;
+}
+.add_customer {
+    font-size: 12px;
+    font-weight: 700;
+    border: 1px solid; 
+    text-decoration: none;
+    background-color: black;
+    padding: 9px 20px 10px !important;
+    color: #ffffff !important;
+    border-radius: 7px; 
+}
+.add_customer > img {
+    background-color: #ffffff;
+    padding: 4px;
+    margin-right: 10px
+}
+.search_name {
+    width: 362px;
+}
+.search_icon {
+    position: absolute;
+    top: 15px;
+    left: 15px;
+}
+input[type="search"]::placeholder {  
+    padding-left: 30px; 
+} 
